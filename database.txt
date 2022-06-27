@@ -1,0 +1,20 @@
+1|The First Book|Author One|0|
+2|The First Book|Author One|0|
+3|The First Book|Author One|0|
+4|The First Book|Author One|0|
+5|More Books|Author Two|0|
+6|More Books|Author Two|0|
+7|More Books|Author Two|0|
+8|More Books|Author Two|0|
+9|Another|Bob|0|
+10|Another|Bob|0|
+11|Another|Bob|0|
+12|Another|Bob|0|
+1265|Big ID Book|Author|4444|
+1266|Big ID Book|Author|4444|
+1267|Big ID Book|Author|4444|
+1268|Big ID Book|Author|4444|
+100|Middle ID|Another Author|1274|
+101|Middle ID|Another Author|1274|
+102|Middle ID|Another Author|1274|
+103|Middle ID|Another Author|1274|
